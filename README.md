@@ -34,8 +34,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/fernanda-motta-pereira/" target="_blank">
+  <a href="https://fernandamotta.carrd.co//" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+ <a href="https://www.linkedin.com/in/fernanda-motta-pereira/" target="_blank">
+    <img src="https://static-00.iconduck.com/assets.00/carrd-icon-512x512-xe08yvnv.png" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
