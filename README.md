@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Focusing on projects to improve my knowledge<br>🎯 Start a position as a Data Analyst<br>🎓 Degree in Administration and Marketing<br>💬 Advanced English</p>
+<p align="left">📚 Focusing on projects and courses to improve my knowledge<br>🎯 Start a position as a Data Analyst<br>🎓 Degree in Administration and Marketing<br>💬 Advanced English</p>
 
 ###
 
