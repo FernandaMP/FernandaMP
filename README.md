@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">With a solid academic background and diverse professional experience, I decided to specialize in data science, as I believe data has the power to transform businesses and promote incredible discoveries.<br>I'm committed to acquiring advanced technical skills, exploring several important tools, and understanding the science behind data. I continue to be involved in courses, workshops, and practical projects to expand my knowledge.<br>Feel free to explore my projects and contact me!<br>You can access my portfolio through this link: https://fernandamotta.carrd.co/</p>
+<p align="left">With a solid academic background and diverse professional experience, I decided to specialize in data science, as I believe data has the power to transform businesses and promote incredible discoveries.<br>I'm committed to acquiring advanced technical skills, exploring several important tools, and understanding the science behind data. I continue to be involved in courses, workshops, and practical projects to expand my knowledge.<br>Feel free to explore my projects and to contact me!<br>You can access my portfolio page through this link: https://fernandamotta.carrd.co/</p>
 
 ###
 
@@ -36,9 +36,7 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/fernanda-motta-pereira/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <a href="https://fernandamotta.carrd.co/" target="_blank">
-    <img src="https://static-00.iconduck.com/assets.00/carrd-icon-1024x1024-dpz00umq.png" height="40" alt="carrd logo"  />
-  </a>
+   </a>
 </div>
 
 ###
