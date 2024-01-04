@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Focusing on projects using Power BI and PostgreSQL<br>🎯 Start a position as a Data Analyst<br>🎓 Graduated in Administration and Marketing<br>💬 Advanced English</p>
+<p align="left">📚 Focusing on projects to improve my learning with Power BI and PostgreSQL<br>🎯 Start a position as a Data Analyst<br>🎓 Degree in Administration and Marketing<br>💬 Advanced English</p>
 
 ###
 
